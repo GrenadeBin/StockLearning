@@ -3,3 +3,4 @@ StockInfo_20200323.txt
 
 StockInfo_20200324.txt
 
+StockInfo_20200325.txt
