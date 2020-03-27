@@ -1,13 +1,9 @@
 StockInfo_20200318.txt
-
 StockInfo_20200319.txt
-
 StockInfo_20200320.txt
-
 StockInfo_20200323.txt
 
 StockInfo_20200324.txt
-
 StockInfo_20200325.txt
-
 StockInfo_20200326.txt
+StockInfo_20200327.txt
