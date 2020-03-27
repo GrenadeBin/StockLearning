@@ -1,3 +1,5 @@
+StockInfo_20200318.txt
+
 StockInfo_20200319.txt
 
 StockInfo_20200320.txt
