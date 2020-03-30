@@ -1,3 +1,4 @@
+File List for Training
 StockInfo_20200218.txt
 StockInfo_20200219.txt
 StockInfo_20200220.txt
