@@ -26,3 +26,4 @@ StockInfo_20200325.txt
 StockInfo_20200326.txt
 StockInfo_20200327.txt
 StockInfo_20200330.txt
+StockInfo_20200331.txt
